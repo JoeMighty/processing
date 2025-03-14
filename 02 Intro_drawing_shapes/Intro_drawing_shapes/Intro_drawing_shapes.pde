@@ -9,7 +9,7 @@ void setup(){
 //(and it loops 30 per sec by default)
 
 void draw(){
-//here can cxan tell processing what need to be drawn inside the window
+//here can can tell processing what need to be drawn inside the window
   rect(mouseX,mouseY,60,60);
 
 }
